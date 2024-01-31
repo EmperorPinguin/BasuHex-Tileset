@@ -136,5 +136,8 @@
         "Plains+Hill+Uranium+Forest": ["HillP","Uranium","ForestPR"],
         "Tundra+Hill+Uranium+Forest": ["HillT","Uranium","ForestTR"],
 
+//tundra Furs
+        "Tundra+Furs+Forest": ["Tundra","FursT","ForestTR"],
+        "Tundra+Hill+Furs+Forest": ["HillT","FursT","ForestTR"],
     }
 }
