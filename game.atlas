@@ -274,14 +274,14 @@ TileSets/BasuHex/Tiles/ForestTR
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/BasuHex/Tiles/Fur
+TileSets/BasuHex/Tiles/Furs
   rotate: false
   xy: 1180, 1660
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/BasuHex/Tiles/FurT
+TileSets/BasuHex/Tiles/FursT
   rotate: false
   xy: 1393, 1836
   size: 64, 64
