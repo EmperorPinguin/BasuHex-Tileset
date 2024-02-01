@@ -139,5 +139,31 @@
 //tundra Furs
         "Tundra+Furs+Forest": ["Tundra","FursT","ForestTR"],
         "Tundra+Hill+Furs+Forest": ["HillT","FursT","ForestTR"],
+
+//farms
+        "Grassland+Wheat+Farm": ["Grassland", "WheatFarm"],
+        "Plains+Wheat+Farm": ["Plains", "WheatFarm"],
+        "Desert+Wheat+Farm": ["Desert", "WheatFarm"],
+        "Desert+Flood plains+Wheat+Farm": ["Desert","Flood plains","WheatFarm"],
+        "Grassland+Hill+Farm": ["HillG","HillFarm"],
+        "Plains+Hill+Farm": ["HillP","HillFarm"],
+        "Desert+Hill+Farm": ["HillD","HillFarm"],
+        "Tundra+Hill+Farm": ["HillT","HillFarm"],
+        "Snow+Hill+Farm": ["HillS","HillFarm"],
+
+//pastures
+        "Grassland+Cattle+Pasture": ["Grassland", "PastureCattle"],
+        "Grassland+Horses+Pasture": ["Grassland", "PastureHorses"],
+        "Plains+Horses+Pasture": ["Plains", "PastureHorses"],
+        "Desert+Horses+Pasture": ["Desert", "PastureHorses"],
+        "Grassland+Hill+Horses+Pasture": ["HillG", "PastureHillHorses"],
+        "Plains+Hill+Horses+Pasture": ["HillP", "PastureHillHorses"],
+        "Desert+Hill+Horses+Pasture": ["HillD", "PastureHillHorses"],
+        "Tundra+Hill+Horses+Pasture": ["HillT", "PastureHillHorses"],
+        "Grassland+Hill+Sheep+Pasture": ["HillG", "PastureHillSheep"],
+        "Plains+Hill+Sheep+Pasture": ["HillP", "PastureHillSheep"],
+        "Desert+Hill+Sheep+Pasture": ["HillD", "PastureHillSheep"],
+        "Tundra+Hill+Sheep+Pasture": ["HillT", "PastureHillSheep"],
+
     }
 }
