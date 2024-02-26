@@ -164,6 +164,10 @@
         "Plains+Hill+Sheep+Pasture": ["HillP", "PastureHillSheep"],
         "Desert+Hill+Sheep+Pasture": ["HillD", "PastureHillSheep"],
         "Tundra+Hill+Sheep+Pasture": ["HillT", "PastureHillSheep"],
-
+//Camps
+        "Deer+Camp": ["CampDeer"],
+        "Furs+Camp": ["CampFurs"],
+        "Truffles+Camp": ["CampTruffles"],
+        "Ivory+Camp": ["CampIvory"],
     }
 }
