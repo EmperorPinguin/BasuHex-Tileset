@@ -8,6 +8,8 @@
         "Grassland+Forest": ["Grassland","ForestG"],
         "Plains+Forest": ["Plains","ForestP"],
         "Tundra+Forest": ["Tundra","ForestT"],
+        "Grassland+Hill+Jungle": ["HillG","JungleG"],
+        "Plains+Hill+Jungle": ["HillP","JungleP"],
         "Grassland+Hill+Forest": ["HillG","ForestG"],
         "Plains+Hill+Forest": ["HillP","ForestP"],
         "Tundra+Hill+Forest": ["HillT","ForestT"],
