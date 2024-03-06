@@ -603,282 +603,317 @@ TileSets/BasuHex/Tiles/HillT3
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/BasuHex/Tiles/Horses
+TileSets/BasuHex/Tiles/Holy site
   rotate: false
-  xy: 1180, 1291
-  size: 64, 64
-  orig: 64, 64
+  xy: 1180, 1282
+  size: 64, 73
+  orig: 64, 73
   offset: 0, 0
   index: -1
-TileSets/BasuHex/Tiles/Ice
+TileSets/BasuHex/Tiles/Horses
   rotate: false
   xy: 1753, 1836
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/BasuHex/Tiles/Ice2
+TileSets/BasuHex/Tiles/Ice
   rotate: false
   xy: 1825, 1908
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/BasuHex/Tiles/Incense
+TileSets/BasuHex/Tiles/Ice2
   rotate: false
   xy: 1897, 1980
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/BasuHex/Tiles/Iron
+TileSets/BasuHex/Tiles/Incense
   rotate: false
   xy: 4, 44
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/BasuHex/Tiles/Ivory
+TileSets/BasuHex/Tiles/Iron
   rotate: false
   xy: 944, 948
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/BasuHex/Tiles/JungleG
+TileSets/BasuHex/Tiles/Ivory
   rotate: false
   xy: 1036, 1066
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/BasuHex/Tiles/JungleP
+TileSets/BasuHex/Tiles/JungleG
   rotate: false
   xy: 1108, 1147
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/BasuHex/Tiles/JungleR
+TileSets/BasuHex/Tiles/JungleP
   rotate: false
-  xy: 1180, 1219
+  xy: 1180, 1210
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/BasuHex/Tiles/Lakes
+TileSets/BasuHex/Tiles/JungleR
   rotate: false
   xy: 1825, 1836
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/BasuHex/Tiles/Maize
+TileSets/BasuHex/Tiles/Lakes
   rotate: false
   xy: 1897, 1908
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/BasuHex/Tiles/Marble
+TileSets/BasuHex/Tiles/Landmark
   rotate: false
-  xy: 1969, 1980
-  size: 64, 64
-  orig: 64, 64
+  xy: 1969, 1971
+  size: 64, 73
+  orig: 64, 73
   offset: 0, 0
   index: -1
-TileSets/BasuHex/Tiles/Marsh
+TileSets/BasuHex/Tiles/Maize
   rotate: false
   xy: 1108, 1075
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/BasuHex/Tiles/Marsh2
+TileSets/BasuHex/Tiles/Manufactory
   rotate: false
-  xy: 1180, 1147
-  size: 64, 64
-  orig: 64, 64
+  xy: 1180, 1129
+  size: 64, 73
+  orig: 64, 73
   offset: 0, 0
   index: -1
-TileSets/BasuHex/Tiles/Mount Sinai
+TileSets/BasuHex/Tiles/Marble
   rotate: false
   xy: 1897, 1836
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
+TileSets/BasuHex/Tiles/Marsh
+  rotate: false
+  xy: 1969, 1899
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Marsh2
+  rotate: false
+  xy: 1252, 1732
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Moai
+  rotate: false
+  xy: 1252, 1651
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Mount Sinai
+  rotate: false
+  xy: 1252, 1579
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 TileSets/BasuHex/Tiles/Mountain
   rotate: false
-  xy: 1969, 1894
+  xy: 1252, 1493
   size: 64, 78
   orig: 64, 78
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Mountain2
   rotate: false
-  xy: 1252, 1718
+  xy: 1252, 1407
   size: 64, 78
   orig: 64, 78
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Mountain3
   rotate: false
-  xy: 1252, 1632
+  xy: 1252, 1321
   size: 64, 78
   orig: 64, 78
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Oasis
   rotate: false
-  xy: 1180, 1075
+  xy: 1252, 1249
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Ocean
   rotate: false
-  xy: 1252, 1560
+  xy: 1252, 1177
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Offshore platform
   rotate: false
-  xy: 1252, 1479
+  xy: 296, 786
   size: 64, 73
   orig: 64, 73
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Oil
   rotate: false
-  xy: 1252, 1407
+  xy: 368, 804
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Oil well
   rotate: false
-  xy: 1252, 1326
+  xy: 440, 795
   size: 64, 73
   orig: 64, 73
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/PastureCattle
   rotate: false
-  xy: 1252, 1254
+  xy: 512, 804
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/PastureHillHorses
   rotate: false
-  xy: 1252, 1182
+  xy: 584, 867
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/PastureHillSheep
   rotate: false
-  xy: 1252, 1110
+  xy: 656, 876
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/PastureHorses
   rotate: false
-  xy: 296, 795
+  xy: 728, 876
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/PastureSheep
   rotate: false
-  xy: 368, 804
+  xy: 800, 876
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Pearls
   rotate: false
-  xy: 440, 804
+  xy: 872, 876
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Plains
   rotate: false
-  xy: 512, 804
+  xy: 944, 876
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Plains2
   rotate: false
-  xy: 584, 867
+  xy: 1969, 1827
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Plains3
   rotate: false
-  xy: 656, 876
+  xy: 584, 795
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Plantation-Atomic era
   rotate: false
-  xy: 728, 867
+  xy: 656, 795
   size: 64, 73
   orig: 64, 73
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Plantation-Future era
   rotate: false
-  xy: 728, 867
+  xy: 656, 795
   size: 64, 73
   orig: 64, 73
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Plantation-Information era
   rotate: false
-  xy: 728, 867
+  xy: 656, 795
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+TileSets/BasuHex/Tiles/Polder
+  rotate: false
+  xy: 728, 795
   size: 64, 73
   orig: 64, 73
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/River-Bottom
   rotate: false
-  xy: 800, 876
+  xy: 800, 804
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/River-BottomLeft
   rotate: false
-  xy: 872, 876
+  xy: 872, 804
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/River-BottomRight
   rotate: false
-  xy: 944, 876
+  xy: 944, 804
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Sakura
   rotate: false
-  xy: 584, 795
+  xy: 1180, 1057
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Sakura2
   rotate: false
-  xy: 656, 804
+  xy: 1252, 1105
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
@@ -892,126 +927,126 @@ TileSets/BasuHex/Tiles/Salt
   index: -1
 TileSets/BasuHex/Tiles/Sheep
   rotate: false
-  xy: 728, 795
+  xy: 76, 620
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Silk
   rotate: false
-  xy: 800, 804
+  xy: 76, 548
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Silver
   rotate: false
-  xy: 872, 804
+  xy: 76, 476
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Snow
   rotate: false
-  xy: 944, 804
+  xy: 76, 404
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Snow2
   rotate: false
-  xy: 1969, 1822
+  xy: 76, 332
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Snow3
   rotate: false
-  xy: 76, 620
+  xy: 76, 260
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Spices
   rotate: false
-  xy: 76, 548
+  xy: 76, 188
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Stone
   rotate: false
-  xy: 76, 476
+  xy: 76, 116
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Truffles
   rotate: false
-  xy: 76, 340
+  xy: 1324, 1755
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Tundra
   rotate: false
-  xy: 76, 268
+  xy: 1324, 1683
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Tundra2
   rotate: false
-  xy: 76, 196
+  xy: 1324, 1611
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Tundra3
   rotate: false
-  xy: 76, 124
+  xy: 1324, 1539
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Uranium
   rotate: false
-  xy: 76, 52
+  xy: 1324, 1467
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Whales
   rotate: false
-  xy: 1324, 1755
+  xy: 1324, 1395
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Wheat
   rotate: false
-  xy: 1324, 1683
+  xy: 1324, 1323
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/WheatFarm
   rotate: false
-  xy: 1324, 1611
+  xy: 1324, 1251
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/Tiles/Wine
   rotate: false
-  xy: 1324, 1539
+  xy: 1324, 1179
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/BasuHex/TopBorder
   rotate: false
-  xy: 76, 412
+  xy: 76, 52
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
